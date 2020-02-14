@@ -9,20 +9,19 @@
 ## [Docs][]
 
 If you don't know where to start, start with the documentation. The docs explain
-how the project works.
+how the project works, and should help answer common questions.
 
 ## [Issues][]
 
-If you've found a bug or want to suggest a new feature, you should file an
-issue. Issues are for discussing specific items that can be assigned to a
-contributor, organized with labels, and grouped into milestones to help drive
-development.
+If you've found a bug or want to suggest a new feature, file an issue. Issues
+are for discussing specific items that can be organized with labels, assigned to
+a contributor, and grouped into milestones to help drive development.
 
 ## [Contact][]
 
-If all else fails, you can try contacting the project maintainer directly. A
-response isn't gauranteed, but the maintainer does their best to answer
-questions as they can.
+If all else fails, you can try contacting the project maintainer. A response
+isn't gauranteed, but the maintainer does their best to answer questions as they
+can.
 
 [Docs]: ../../wiki
 [Issues]: ../../issues
