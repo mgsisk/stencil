@@ -1,9 +1,9 @@
 ---
-name: Request a feature
-about: Suggest an idea to enhance this project
-title: Provide a brief, descriptive summary of the feature here
-labels: enhancement, help wanted
-assignees: mgsisk
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
