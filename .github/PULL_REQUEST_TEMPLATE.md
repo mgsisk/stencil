@@ -1,3 +1,10 @@
+---
+name: Anything goes
+about: Submit a freeform issue
+title: Provide a brief, descriptive summary of the issue here
+assignees: mgsisk
+---
+
 <!-- Provide a brief, descriptive summary of your changes in the Title above -->
 
 ### Change
