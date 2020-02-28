@@ -1,8 +1,8 @@
 ---
-name: Blank issue
+name: Freeform
 about: Submit an issue without a template
 title: Provide a brief, descriptive summary of the issue here
-labels: 
+labels: ''
 assignees: mgsisk
 
 ---
