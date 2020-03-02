@@ -1,38 +1,30 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+about: Report a bug to help improve this project
+title: Provide a brief, descriptive summary of the bug here
+labels: bug
+assignees: mgsisk
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Expected Behavior**  
+Provide a clear and concise description of what should happen here.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Current Behavior**  
+Provide a clear and concise description of what's actually happening here.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Reproduction Steps**  
+Provide clear and concise instructions to reproduce the bug here.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Suggested Fix**  
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+Provide a clear and concise description of any suggested fixes here, or delete
+this section.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Context**  
+Provide any relevant context that might help here, including:
 
-**Additional context**
-Add any other context about the problem here.
+- Code related to the bug
+- Environments that produce the bug (e.g. browser, device, operating system)
+- Links to live examples of the bug
+- Project versions that include the bug
+- Screenshots demonstrating the bug
