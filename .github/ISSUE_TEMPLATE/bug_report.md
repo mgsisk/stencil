@@ -4,6 +4,7 @@ about: Report a bug to help improve this project
 title: Provide a brief, descriptive summary of the bug here
 labels: bug
 assignees: mgsisk
+
 ---
 
 **Expected Behavior**  
@@ -13,7 +14,7 @@ Provide a clear and concise description of what should happen here.
 Provide a clear and concise description of what's actually happening here.
 
 **Reproduction Steps**  
-Provide clear and concise instructions to reproduce the bug here.
+Provide clear and concise instructions explaining how to reproduce the bug here.
 
 **Suggested Fix**  
 

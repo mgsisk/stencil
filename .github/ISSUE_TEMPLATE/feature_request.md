@@ -1,20 +1,31 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+about: Suggest an idea to enhance this project
+title: Provide a brief, descriptive summary of the feature here
+labels: enhancement
+assignees: mgsisk
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Expected Behavior**  
+Provide a clear and concise description of what should happen here.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Current Behavior**  
+Provide a clear and concise description of what's actually happening here.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Alternatives Considered**  
+Provide a clear and concise description of any alternative solutions or features
+considered here.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Suggested Implementation**  
+
+Provide a clear and concise description of any suggested implementations here,
+or delete this section.
+
+**Context**  
+Provide any relevant context that might help here, including:
+
+- Code related to the feature
+- Environments that support the feature (e.g. browser, device, operating system)
+- Links to examples of the features
+- Screenshots demonstrating the feature
