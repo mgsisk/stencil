@@ -1,8 +1,10 @@
-custom: ["https://buymeacoff.ee/mgsisk", "https://paypal.me/mgsisk"]
-github: mgsisk
-issuehunt: mgsisk
+issue_hunt: mgsisk
 ko_fi: mgsisk
 liberapay: mgsisk
 open_collective: mgsisk
 otechie: mgsisk
 patreon: mgsisk
+custom:
+ - https://buymeacoff.ee/mgsisk
+ - https://flattr.com/@mgsisk
+ - https://paypal.me/mgsisk
