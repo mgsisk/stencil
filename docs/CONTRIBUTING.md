@@ -1,4 +1,7 @@
-# Contributing
+---
+title: Contributing
+permalink: /contributing
+---
 
 Thanks for wanting to contribute to Webcomic; contributions are always welcome!
 These guidelines should help get you started.
