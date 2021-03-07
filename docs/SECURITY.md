@@ -33,4 +33,4 @@ determine an appropriate public response.
 
 Project maintainers are not aware of any outstanding security issues.
 
-[changelog]: CHANGELOG.md
+[changelog]: ./CHANGELOG.md
