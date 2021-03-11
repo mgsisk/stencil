@@ -102,7 +102,7 @@ ongoing work on this and other projects, please use [Liberapay][].
 [discussions]: https://github.com/mgsisk/stencil/issues
 [feature request template]: .github/ISSUE_TEMPLATE/feature-request.md
 [forking this repository]: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
-[funding]: ?sponsor=1
+[funding]: .github/FUNDING.yml?sponsor=1
 [issuehunt]: https://issuehunt.io/r/mgsisk
 [issues]: https://github.com/mgsisk/stencil/issues
 [liberapay]: https://liberapay.com/mgsisk
